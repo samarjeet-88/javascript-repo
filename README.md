@@ -1,0 +1,2 @@
+# javascript-repo
+PRACTICING JAVASCRIPT
